@@ -57,7 +57,7 @@ Este proyecto tiene como objetivo crear una API en C# que retorne datos de keywo
 # Uso
 
 1. Accede al frontend en http://localhost:3000.
-2. La API está disponible en https://localhost:7147/api/Keywords/GetKeywords o en Swagger https://localhost:7147/swagger/index.html.
+2. La API está disponible en https://localhost:7147/swagger/index.html.
 3. El dashboard mostrará los datos de las keywords con el volumen de búsqueda ordenado de mayor a menor.
 
 # Estructura de la API
